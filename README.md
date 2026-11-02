@@ -8,11 +8,11 @@ Last refreshed: November 2026
 
 # ALIMUL FAZAL NABIL
 
-### AI Solutions Engineer · Cloud & Infrastructure Engineer
+### CLOUD AI PLATFORM ENGINEER
 
-**GenAI | RAG | AI Agents | MLOps | Azure | Cloud Architecture | DevOps | Computer Vision**
+**AI Engineering | LLM Applications | RAG | MLOps | Azure | Terraform | Kubernetes | Platform Reliability**
 
-Building intelligent systems and the cloud foundations that help them run reliably.
+**Engineering the platform layer behind intelligent applications — from retrieval and model services to secure cloud infrastructure and automated delivery.**
 
 <p>
   <a href="https://alimulfazalnabil.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit-0B6E99?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
@@ -53,9 +53,9 @@ Building intelligent systems and the cloud foundations that help them run reliab
 
 ### PROFESSIONAL PROFILE
 
-I am an **AI Solutions Engineer and Cloud & Infrastructure Engineer** focused on building intelligent, scalable technology solutions. I bring 7+ years of experience across IT infrastructure, cloud engineering, automation and DevOps, with a growing focus on applying AI to practical business and engineering problems.
+I am a **Cloud AI Platform Engineer** combining 7+ years of IT infrastructure, cloud engineering, automation and DevOps experience with applied AI engineering. My focus is the platform layer that makes intelligent applications dependable: API services, retrieval systems, data stores, identity boundaries, deployment automation, observability and operational controls.
 
-My engineering approach connects the full solution lifecycle:
+My engineering approach connects the AI application lifecycle with the platform lifecycle:
 
 `Python → Machine Learning → APIs → LLMs → RAG → Vector Databases → AI Agents → Evaluation → MLOps / LLMOps`
 
@@ -112,29 +112,47 @@ I combine this AI focus with cloud and DevOps practices to address deployment, s
 </tr>
 </table>
 
-## FEATURED ENGINEERING PROJECTS
+## SELECTED ENGINEERING WORK
 
-Selected public repositories from my GitHub portfolio. Project descriptions distinguish reference architectures, learning work and implemented applications; consult each repository for its current implementation status.
+The three projects below are prioritised because together they demonstrate AI application architecture, cloud automation and delivery of a documented application platform.
 
-### CLOUD PLATFORM & DEVOPS
+### 01 / Enterprise RAG Knowledge Platform
+**AI application architecture · Retrieval engineering · Tenant-aware design**
 
-| Project | Engineering scope |
-|---|---|
-| [Azure Terraform CI/CD Foundation](https://github.com/alimulfazalnabil/azure-terraform-cicd-foundation) | Modular Azure infrastructure, Terraform environments and GitHub Actions OIDC workflow |
-| [Azure Scalable Web Platform](https://github.com/alimulfazalnabil/azure-scalable-web-platform) | Reference architecture using Azure Front Door, Linux App Service, Azure SQL and Blob Storage |
-| [Azure Hybrid Migration](https://github.com/alimulfazalnabil/azure-hybrid-migration) | Hybrid VPN connectivity, VM infrastructure, backup and recovery architecture |
-| [Azure Zero-Trust Security](https://github.com/alimulfazalnabil/azure-zero-trust-security) | Terraform security foundation with private endpoints and Microsoft security services |
-| [PGCB Organization Portal](https://github.com/alimulfazalnabil/pgcb-org-portal) · [Live demo](https://pgcb-org-portal.onrender.com/) | Institutional web portal, member services, role-based administration and verification workflows |
+A RAG platform reference implementation covering dense and sparse retrieval, Reciprocal Rank Fusion, cross-encoder reranking, contextual compression and citation verification.
 
-### AI, GENAI & DATA PLATFORMS
+- [Repository](https://github.com/alimulfazalnabil/LLM-enterprise-rag-knowledge-platform)
+- [Architecture diagram](https://github.com/alimulfazalnabil/LLM-enterprise-rag-knowledge-platform/blob/main/docs/architecture.svg)
+- Stack: Python, FastAPI, PostgreSQL/pgvector, BM25, Redis/Celery, Docker and Terraform.
 
-| Project | Engineering scope |
-|---|---|
-| [Enterprise RAG Knowledge Platform](https://github.com/alimulfazalnabil/LLM-enterprise-rag-knowledge-platform) | Hybrid retrieval, reranking, tenant-scoped access control and grounded responses |
-| [LLMs: Foundations to RAG](https://github.com/alimulfazalnabil/LLMs-From-Basic-to-RAG) | Hands-on exploration of LLM workflows, LangChain and retrieval-augmented generation |
-| [Azure Data & AI Analytics](https://github.com/alimulfazalnabil/azure-data-ai-analytics) | Reference design for data ingestion, lakehouse zones, analytics and ML workflows |
+### 02 / Azure Terraform CI/CD Foundation
+**Cloud platform engineering · Infrastructure as Code · Federated identity**
 
-### ROBOTICS & COMPUTER VISION
+A modular Azure foundation using Terraform modules and GitHub Actions workflows with OIDC-based authentication.
+
+- [Repository](https://github.com/alimulfazalnabil/azure-terraform-cicd-foundation)
+- [Architecture diagram](https://github.com/alimulfazalnabil/azure-terraform-cicd-foundation/blob/main/docs/architecture.svg)
+- Stack: Azure, Terraform, GitHub Actions, OIDC, Azure Key Vault and remote state.
+
+### 03 / PGCB Organization Portal
+**Application platform · Identity and access control · Delivery**
+
+A documented institutional portal with member self-service, role-based administration, QR-based credential verification and a live deployment.
+
+- [Repository](https://github.com/alimulfazalnabil/pgcb-org-portal)
+- [Live portal](https://pgcb-org-portal.onrender.com/)
+- [Architecture diagram](https://github.com/alimulfazalnabil/pgcb-org-portal/blob/main/docs/architecture.svg)
+- Stack: Python, FastAPI, relational database, web frontend, RBAC, TOTP MFA and HMAC-SHA256 verification.
+
+### Additional work
+- [Azure Scalable Web Platform](https://github.com/alimulfazalnabil/azure-scalable-web-platform) — Azure application reference architecture.
+- [Azure Hybrid Migration](https://github.com/alimulfazalnabil/azure-hybrid-migration) — Hybrid connectivity, VM infrastructure and recovery architecture.
+- [Azure Zero-Trust Security](https://github.com/alimulfazalnabil/azure-zero-trust-security) — Terraform security foundation.
+- [LLMs: Foundations to RAG](https://github.com/alimulfazalnabil/LLMs-From-Basic-to-RAG) — LLM and RAG learning repository.
+- [Autonomous Lane Detection](https://github.com/alimulfazalnabil/Autonomous-Lane-Detection) — OpenCV lane-perception work.
+- [Bluetooth-Controlled Robotic Arm](https://github.com/alimulfazalnabil/Bluetooth-Controlled-Robotic-Arm) — Arduino and servo-control project.
+
+
 
 | Project | Engineering scope |
 |---|---|
