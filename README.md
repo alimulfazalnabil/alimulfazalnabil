@@ -122,7 +122,9 @@ The three projects below are prioritised because together they demonstrate AI ap
 A RAG platform reference implementation covering dense and sparse retrieval, Reciprocal Rank Fusion, cross-encoder reranking, contextual compression and citation verification.
 
 - [Repository](https://github.com/alimulfazalnabil/LLM-enterprise-rag-knowledge-platform)
-- [Architecture diagram](https://github.com/alimulfazalnabil/LLM-enterprise-rag-knowledge-platform/blob/main/docs/architecture.svg)
+![Enterprise RAG architecture](https://raw.githubusercontent.com/alimulfazalnabil/LLM-enterprise-rag-knowledge-platform/main/docs/architecture.svg)
+
+[Open full diagram](https://github.com/alimulfazalnabil/LLM-enterprise-rag-knowledge-platform/blob/main/docs/architecture.svg)
 - Stack: Python, FastAPI, PostgreSQL/pgvector, BM25, Redis/Celery, Docker and Terraform.
 
 ### 02 / Azure Terraform CI/CD Foundation
@@ -131,7 +133,9 @@ A RAG platform reference implementation covering dense and sparse retrieval, Rec
 A modular Azure foundation using Terraform modules and GitHub Actions workflows with OIDC-based authentication.
 
 - [Repository](https://github.com/alimulfazalnabil/azure-terraform-cicd-foundation)
-- [Architecture diagram](https://github.com/alimulfazalnabil/azure-terraform-cicd-foundation/blob/main/docs/architecture.svg)
+![Azure Terraform CI/CD architecture](https://raw.githubusercontent.com/alimulfazalnabil/azure-terraform-cicd-foundation/main/docs/architecture.svg)
+
+[Open full diagram](https://github.com/alimulfazalnabil/azure-terraform-cicd-foundation/blob/main/docs/architecture.svg)
 - Stack: Azure, Terraform, GitHub Actions, OIDC, Azure Key Vault and remote state.
 
 ### 03 / PGCB Organization Portal
@@ -141,7 +145,9 @@ A documented institutional portal with member self-service, role-based administr
 
 - [Repository](https://github.com/alimulfazalnabil/pgcb-org-portal)
 - [Live portal](https://pgcb-org-portal.onrender.com/)
-- [Architecture diagram](https://github.com/alimulfazalnabil/pgcb-org-portal/blob/main/docs/architecture.svg)
+![PGCB portal architecture](https://raw.githubusercontent.com/alimulfazalnabil/pgcb-org-portal/main/docs/architecture.svg)
+
+[Open full diagram](https://github.com/alimulfazalnabil/pgcb-org-portal/blob/main/docs/architecture.svg)
 - Stack: Python, FastAPI, relational database, web frontend, RBAC, TOTP MFA and HMAC-SHA256 verification.
 
 ### Additional work
