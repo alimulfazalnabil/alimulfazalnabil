@@ -234,7 +234,7 @@ I am interested in opportunities and collaborations at the intersection of **AI 
 
 - **Portfolio:** [alimulfazalnabil.github.io](https://alimulfazalnabil.github.io/)
 - **LinkedIn:** [linkedin.com/in/alimul-fazal-nabil](https://www.linkedin.com/in/alimul-fazal-nabil/)
-- **Email:** [al...nabil@gmail.com](mailto:al...nabil@gmail.com)
+- **Email:** [alimul.nabil@gmail.com](mailto:alimul.nabil@gmail.com)
 - **Company:** [movisabio.com](https://www.movisabio.com/)
 
 <div align="center">
